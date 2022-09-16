@@ -53,6 +53,12 @@ a repository to summary all the courses.
   This course teaches you about software engineering.
 + [ ] [CS170-fall22](https://github.com/shejialuo/CS170-fall22)
   This course teaches you about advanced algorithms.
++ [ ] [CS142-sp22](https://github.com/shejialuo/CS142-sp22)
+  This course teaches you about web development, for myself, I just want to learn
+  React. I want to see the difference between React and Angular.
++ [ ] [Data100-fa21](https://github.com/shejialuo/Data100-fa21)
+  This course teaches you about data science. I think it is a good course to
+  broaden my horizon.
 
 ## Courses From The Other
 

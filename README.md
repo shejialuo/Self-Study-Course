@@ -47,6 +47,8 @@ a repository to summary all the courses.
 + [ ] [CS161-su20](https://github.com/shejialuo/CS161-su20)
   This course teaches the basic idea about the security. You will learn the security
   from many perspectives and do it in action.
++ [ ] [MIT_6.858-sp20](https://github.com/shejialuo/MIT_6.858-sp20)
+  This course teaches how to implement a security application with many papers.
 + [ ] [CS143](https://github.com/shejialuo/CS143)
   This course teaches you how to implement a compiler in action.
 + [ ] [MIT_6.031-sp16](https://github.com/shejialuo/MIT_6.031-sp16)
@@ -59,6 +61,12 @@ a repository to summary all the courses.
 + [ ] [Data100-fa21](https://github.com/shejialuo/Data100-fa21)
   This course teaches you about data science. I think it is a good course to
   broaden my horizon.
++ [ ] [CSAPP](https://github.com/shejialuo/CSAPP)
+  This course teaches you the overall idea about the computer system.
++ [ ] [CS50](https://github.com/shejialuo/CS50)
+  This course teaches you the basic idea about AI, which is an introductory course.
++ [ ] [CS188-fa18](https://github.com/shejialuo/CS188-fa18)
+  This course teaches you the basic idea about AI with more practical problems.
 
 ## Courses From The Other
 

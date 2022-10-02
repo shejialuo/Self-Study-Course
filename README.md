@@ -25,7 +25,7 @@ a repository to summary all the courses.
   + Some wonderful case studies for distributed system.
   + Write Map-Reduce.
   + Implementation a distributed KV application with RAFT.
-+ [ ] [CS149-fall21](https://github.com/shejialuo/CS149-fall21)
++ [x] [CS149-fall21](https://github.com/shejialuo/CS149-fall21)
   This course teaches the parallel computing. You will learn the following things:
   + Basic idea about parallel computing and the architecture for parallelism.
   + Analysis the parallel computing code for its correctness and performance.

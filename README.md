@@ -81,11 +81,26 @@ a repository to summary all the courses.
 + [x] [ugit](https://github.com/shejialuo/ugit)
   This tutorial teaches how to write a git by Python. It is a wonderful
   tutorial to let you understand the internal of git.
++ [ ] [ugit-cpp](https://github.com/shejialuo/ugit-cpp)
+  This is my own implementation of the git internal written with cpp. Just
+  for fun.
 + [ ] [haskell-course](https://github.com/shejialuo/haskell-course/tree/solution)
   This tutorial is composed of many exercises for you to grasp the Haskell.
 + [x] [simpleOS](https://github.com/shejialuo/simpleOS)
   This is a simple uncompleted implementation of OS.
 + [x] [kilo](https://github.com/shejialuo/kilo)
   This tutorial teaches you how to write a text editor in terminal with C.
-+ [ ] [rubber-docker](https://github.com/shejialuo/rubber-docker)
++ [x] [rubber-docker](https://github.com/shejialuo/rubber-docker)
   This workshop teaches you how to write a simple docker engine by yourself.
++ [ ] [miniDocker](https://github.com/shejialuo/miniDocker)
+  This is a simple implementation docker written by Go. It simply provides the basic
+  functionality.
++ [ ] [miniBittorrent](https://github.com/shejialuo/miniBittorrent)
+  This is a simple implementation of a bittorrent client written with cpp. The original
+  tutorial is written with NodeJs. I deicide to rewrite with cpp.
++ [ ] [blockchain-cpp](https://github.com/shejialuo/blockchain-cpp)
+  This is a simple implementation of a blockchain written with cpp. The original tutorial is written with Go. I decide to rewrite with cpp.
++ [ ] [simpleVM](https://www.jmeiners.com/lc3-vm/)
+  This is a simple implementation of a virtual machine
+  written with cpp. The original tutorial is written
+  with C. I decide to rewrite with cpp.

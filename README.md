@@ -104,3 +104,11 @@ a repository to summary all the courses.
   This is a simple implementation of a virtual machine
   written with cpp. The original tutorial is written
   with C. I decide to rewrite with cpp.
++ [ ] [simpleTCPStack](https://github.com/shejialuo/simpleTCPStack)
+  This is a simple implementation of the TCP/IP stack.
++ [ ] [simpleScheme](https://github.com/shejialuo/simpleScheme)
+  This is a simple implementation of the scheme interpreter by haskell.
++ [ ] [simpleRegex](https://github.com/shejialuo/simpleRegex)
+  This is a simple implementation of the simple regex
++ [ ] [simpleHashTable](https://github.com/shejialuo/simpleHashTable)
+  This is a simple implementation of a simple hash table

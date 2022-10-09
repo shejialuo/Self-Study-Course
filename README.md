@@ -92,7 +92,7 @@ a repository to summary all the courses.
   This tutorial teaches you how to write a text editor in terminal with C.
 + [x] [rubber-docker](https://github.com/shejialuo/rubber-docker)
   This workshop teaches you how to write a simple docker engine by yourself.
-+ [ ] [miniDocker](https://github.com/shejialuo/miniDocker)
++ [x] [miniDocker](https://github.com/shejialuo/miniDocker)
   This is a simple implementation docker written by Go. It simply provides the basic
   functionality.
 + [ ] [miniBittorrent](https://github.com/shejialuo/miniBittorrent)

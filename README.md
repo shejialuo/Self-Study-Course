@@ -81,7 +81,7 @@ a repository to summary all the courses.
 + [x] [ugit](https://github.com/shejialuo/ugit)
   This tutorial teaches how to write a git by Python. It is a wonderful
   tutorial to let you understand the internal of git.
-+ [ ] [ugit-cpp](https://github.com/shejialuo/ugit-cpp)
++ [x] [ugit-cpp](https://github.com/shejialuo/ugit-cpp)
   This is my own implementation of the git internal written with cpp. Just
   for fun.
 + [ ] [haskell-course](https://github.com/shejialuo/haskell-course/tree/solution)

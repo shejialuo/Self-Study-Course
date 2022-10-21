@@ -110,5 +110,3 @@ a repository to summary all the courses.
   This is a simple implementation of the scheme interpreter by haskell.
 + [ ] [simpleRegex](https://github.com/shejialuo/simpleRegex)
   This is a simple implementation of the simple regex
-+ [ ] [simpleHashTable](https://github.com/shejialuo/simpleHashTable)
-  This is a simple implementation of a simple hash table

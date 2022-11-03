@@ -46,7 +46,7 @@ a repository to summary all the courses.
 + [ ] [CS144](https://github.com/shejialuo/CS144)
   This course teaches the implementation about the TCP/IP. You will implement a
   TCP/IP stack by yourself.
-+ [ ] [CS161-su20](https://github.com/shejialuo/CS161-su20)
++ [x] [CS161-su20](https://github.com/shejialuo/CS161-su20)
   This course teaches the basic idea about the security. You will learn the security
   from many perspectives and do it in action.
 + [ ] [MIT_6.858-sp20](https://github.com/shejialuo/MIT_6.858-sp20)

@@ -43,7 +43,7 @@ a repository to summary all the courses.
   This course teaches the basic idea about OS. You will make the ideas into action.
 + [ ] [CS162-fa21](https://github.com/shejialuo/CS162-fa21)
   This course teaches the basic idea about OS.
-+ [ ] [CS144](https://github.com/shejialuo/CS144)
++ [x] [CS144](https://github.com/shejialuo/CS144)
   This course teaches the implementation about the TCP/IP. You will implement a
   TCP/IP stack by yourself.
 + [x] [CS161-su20](https://github.com/shejialuo/CS161-su20)

@@ -49,8 +49,15 @@ a repository to summary all the courses.
 + [x] [CS161-su20](https://github.com/shejialuo/CS161-su20)
   This course teaches the basic idea about the security. You will learn the security
   from many perspectives and do it in action.
-+ [ ] [MIT_6.858-sp20](https://github.com/shejialuo/MIT_6.858-sp20)
-  This course teaches how to implement a security application with many papers.
+  + How to exploit binary bugs.
+  + How to implement network attacks.
+  + How to implement a security shared file system.
++ [x] [MIT_6.858-sp20](https://github.com/shejialuo/MIT_6.858-sp20)
+  This course teaches how to implement a security application with many papers:
+  + How to exploit binary bugs.
+  + How to implement privilege separation.
+  + How to realize symbolic execution.
+  + How to implement SUNDR, it is hard.
 + [ ] [CS143](https://github.com/shejialuo/CS143)
   This course teaches you how to implement a compiler in action.
 + [ ] [MIT_6.031-sp16](https://github.com/shejialuo/MIT_6.031-sp16)

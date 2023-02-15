@@ -11,8 +11,6 @@ a repository to summary all the courses.
   + How to write program with functional programming.
   + Improve your abstraction ability.
   + Learn hwo to write a toy scheme interpreter.
-+ [ ] [CS61B-spring18](https://github.com/shejialuo/CS61B-spring18)
-  This course teaches the basic data structure and algorithm.
 + [x] [CS61C-summer20](https://github.com/shejialuo/CS61C-summer20)
   This course is aimed at computer system architecture. You will learn the
   following things:

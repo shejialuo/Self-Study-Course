@@ -89,8 +89,6 @@ a repository to summary all the courses.
 + [x] [ugit-cpp](https://github.com/shejialuo/ugit-cpp)
   This is my own implementation of the git internal written with cpp. Just
   for fun.
-+ [ ] [haskell-course](https://github.com/shejialuo/haskell-course/tree/solution)
-  This tutorial is composed of many exercises for you to grasp the Haskell.
 + [x] [simpleOS](https://github.com/shejialuo/simpleOS)
   This is a simple uncompleted implementation of OS.
 + [x] [kilo](https://github.com/shejialuo/kilo)

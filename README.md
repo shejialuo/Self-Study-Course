@@ -58,22 +58,18 @@ a repository to summary all the courses.
   + How to implement SUNDR, it is hard.
 + [ ] [CS143](https://github.com/shejialuo/CS143)
   This course teaches you how to implement a compiler in action.
-+ [ ] [MIT_6.031-sp16](https://github.com/shejialuo/MIT_6.031-sp16)
-  This course teaches you about software engineering.
 + [ ] [CS170-fall22](https://github.com/shejialuo/CS170-fall22)
   This course teaches you about advanced algorithms.
-+ [ ] [CS142-sp22](https://github.com/shejialuo/CS142-sp22)
++ [ ] [CS142-sp23](https://github.com/shejialuo/CS142-sp23)
   This course teaches you about web development, for myself, I just want to learn
-  React. I want to see the difference between React and Angular.
+  React. I want to see the difference between React and Angular. And you will learn
+  the following things:
+  + How to use JavaScript.
+  + Understand the DOM.
+  + Learn React
 + [ ] [Data100-fa21](https://github.com/shejialuo/Data100-fa21)
   This course teaches you about data science. I think it is a good course to
   broaden my horizon.
-+ [ ] [CSAPP](https://github.com/shejialuo/CSAPP)
-  This course teaches you the overall idea about the computer system.
-+ [ ] [CS50](https://github.com/shejialuo/CS50)
-  This course teaches you the basic idea about AI, which is an introductory course.
-+ [ ] [CS188-fa18](https://github.com/shejialuo/CS188-fa18)
-  This course teaches you the basic idea about AI with more practical problems.
 
 ## Courses From The Other
 

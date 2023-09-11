@@ -31,16 +31,12 @@ a repository to summary all the courses.
   + Use CUDA to write a render application.
   + Use OpenMP to do big graph processing.
   + Write a matrix multiplication as fast as possible.
-+ [ ] [CS186-spring22](https://github.com/shejialuo/CS186-sp22)
-  This course teaches the implementation of the DBMS and how to write a DB.
 + [ ] [CMU15_445-fa22](https://github.com/shejialuo/CMU15_445-fa22)
   This course teaches the implementation of the DBMS and how to write a DB. However,
   the instructor insists that the repository should be private. So this resository
   is private, if you want to know the implementation please send the email to me.
 + [x] [MIT_6.S081-2021](https://github.com/shejialuo/MIT_6.S081-2021)
   This course teaches the basic idea about OS. You will make the ideas into action.
-+ [ ] [CS162-fa21](https://github.com/shejialuo/CS162-fa21)
-  This course teaches the basic idea about OS.
 + [x] [CS144](https://github.com/shejialuo/CS144)
   This course teaches the implementation about the TCP/IP. You will implement a
   TCP/IP stack by yourself.
@@ -58,15 +54,6 @@ a repository to summary all the courses.
   + How to implement SUNDR, it is hard.
 + [ ] [CS143](https://github.com/shejialuo/CS143)
   This course teaches you how to implement a compiler in action.
-+ [ ] [CS170-fall22](https://github.com/shejialuo/CS170-fall22)
-  This course teaches you about advanced algorithms.
-+ [ ] [CS142-sp23](https://github.com/shejialuo/CS142-sp23)
-  This course teaches you about web development, for myself, I just want to learn
-  React. I want to see the difference between React and Angular. And you will learn
-  the following things:
-  + How to use JavaScript.
-  + Understand the DOM.
-  + Learn React
 + [ ] [Data100-fa21](https://github.com/shejialuo/Data100-fa21)
   This course teaches you about data science. I think it is a good course to
   broaden my horizon.
@@ -94,16 +81,5 @@ a repository to summary all the courses.
 + [x] [miniDocker](https://github.com/shejialuo/miniDocker)
   This is a simple implementation docker written by Go. It simply provides the basic
   functionality.
-+ [ ] [miniBittorrent](https://github.com/shejialuo/miniBittorrent)
-  This is a simple implementation of a bittorrent client written with cpp. The original
-  tutorial is written with NodeJs. I deicide to rewrite with cpp.
-+ [ ] [blockchain-cpp](https://github.com/shejialuo/blockchain-cpp)
-  This is a simple implementation of a blockchain written with cpp. The original tutorial is written with Go. I decide to rewrite with cpp.
-+ [ ] [simpleVM](https://www.jmeiners.com/lc3-vm/)
-  This is a simple implementation of a virtual machine
-  written with cpp. The original tutorial is written
-  with C. I decide to rewrite with cpp.
-+ [ ] [simpleScheme](https://github.com/shejialuo/simpleScheme)
-  This is a simple implementation of the scheme interpreter by haskell.
 + [ ] [simpleRegex](https://github.com/shejialuo/simpleRegex)
   This is a simple implementation of the simple regex

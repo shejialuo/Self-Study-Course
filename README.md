@@ -58,6 +58,16 @@ a repository to summary all the courses.
   This course teaches you about data science. I think it is a good course to
   broaden my horizon.
 
+## Courses From The Book
+
++ [x] [simpleOS](https://github.com/shejialuo/simpleOS)
+  This is a simple uncompleted implementation of OS.
++ [x] [miniDocker](https://github.com/shejialuo/miniDocker)
+  This is a simple implementation docker written by Go. It simply provides the basic
+  functionality.
++ [ ] [Haskell-Programming-From-First-Principle](https://github.com/shejialuo/Haskell-Programming-From-First-Principle)
+  This is my exercises for studying "Haskell Programming From First Principle"
+
 ## Courses From The Other
 
 + [x] [miniDebugger](https://github.com/shejialuo/miniDebugger)
@@ -72,14 +82,9 @@ a repository to summary all the courses.
 + [x] [ugit-cpp](https://github.com/shejialuo/ugit-cpp)
   This is my own implementation of the git internal written with cpp. Just
   for fun.
-+ [x] [simpleOS](https://github.com/shejialuo/simpleOS)
-  This is a simple uncompleted implementation of OS.
 + [x] [kilo](https://github.com/shejialuo/kilo)
   This tutorial teaches you how to write a text editor in terminal with C.
 + [x] [rubber-docker](https://github.com/shejialuo/rubber-docker)
   This workshop teaches you how to write a simple docker engine by yourself.
-+ [x] [miniDocker](https://github.com/shejialuo/miniDocker)
-  This is a simple implementation docker written by Go. It simply provides the basic
-  functionality.
 + [ ] [simpleRegex](https://github.com/shejialuo/simpleRegex)
   This is a simple implementation of the simple regex

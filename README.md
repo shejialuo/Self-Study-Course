@@ -31,10 +31,6 @@ a repository to summary all the courses.
   + Use CUDA to write a render application.
   + Use OpenMP to do big graph processing.
   + Write a matrix multiplication as fast as possible.
-+ [ ] [CMU15_445-fa22](https://github.com/shejialuo/CMU15_445-fa22)
-  This course teaches the implementation of the DBMS and how to write a DB. However,
-  the instructor insists that the repository should be private. So this resository
-  is private, if you want to know the implementation please send the email to me.
 + [x] [MIT_6.S081-2021](https://github.com/shejialuo/MIT_6.S081-2021)
   This course teaches the basic idea about OS. You will make the ideas into action.
 + [x] [CS144](https://github.com/shejialuo/CS144)
@@ -52,11 +48,6 @@ a repository to summary all the courses.
   + How to implement privilege separation.
   + How to realize symbolic execution.
   + How to implement SUNDR, it is hard.
-+ [ ] [CS143](https://github.com/shejialuo/CS143)
-  This course teaches you how to implement a compiler in action.
-+ [ ] [Data100-fa21](https://github.com/shejialuo/Data100-fa21)
-  This course teaches you about data science. I think it is a good course to
-  broaden my horizon.
 
 ## Courses From The Book
 
